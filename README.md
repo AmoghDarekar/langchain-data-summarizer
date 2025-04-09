@@ -2,8 +2,6 @@
 
 This project lets you upload a large CSV dataset and get an **AI-generated summary** using **LangChain + OpenAI**.
 
-🚀 Great for recruiters and hiring teams to see how LLMs can simplify data analysis.
-
 ---
 
 ## 📂 Features
